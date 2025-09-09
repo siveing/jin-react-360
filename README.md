@@ -1,4 +1,4 @@
-# react-360-view
+# jin-react-360-view
 - A Simple and Beautiful 360&deg; Product Viewer built on React
 
 ### [Click here for Vue version](https://github.com/rajeevgade/vue-360)
@@ -26,13 +26,13 @@
 
 ## Installation
 ```
-npm install react-360-view
+npm install jin-react-360-view
 ```
 
 ## Config
 
 ```
-import ThreeSixty from 'react-360-view'
+import ThreeSixty from 'jin-react-360-view'
 ```
 
 ## Example
