@@ -6,10 +6,10 @@
     "email": "siveing.huyy@gmail.com"
   },
   "description": "A Simple and Beautiful 360 viewer for your product",
-  "homepage": "https://react-360.vercel.app/",
+  "homepage": "https://github.com/siveing/jin-react-360",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajeevgade/react-360"
+    "url": "https://github.com/siveing/jin-react-360"
   },
   "license": "MIT",
   "main": "./dist/JinReact360Viewer.js",
